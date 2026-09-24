@@ -14,4 +14,4 @@ karan.name = "karan koli\n"
 karan.language="telagu\n"
 print(karan.name,karan.language,karan.salary)
 
-(* #here name instance  attribute and salary and language are class attributes as they directly belong to the class *)
+#here name instance  attribute and salary and language are class attributes as they directly belong to the class
